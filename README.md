@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new skills.
 - 🌱 I’m currently learning Unity Engine and C# programming language.
 - 💞️ I’m looking to collaborate on Unity Projects.
-- 📫 How to reach me ...
+- 📫 How to reach me babarkhanali34@gmail.com
 
 <!---
 babarswork/babarswork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
